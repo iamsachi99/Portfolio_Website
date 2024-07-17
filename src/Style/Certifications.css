@@ -1,0 +1,51 @@
+.section {
+    padding: 50px 0;
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.a2{
+    text-decoration: none;
+    color: black;
+}
+
+.li1{
+    margin-left:10px;
+}
+
+.point{
+    margin-left:50px;
+}
+
+.Duration{
+    color:grey;
+}
+
+.certifications-list {
+    list-style: none;
+    padding: 0;
+}
+
+.certifications-list li {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+.cont{
+    margin-left: 45px;
+}
+
+.certifications-list b {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.certifications-list p {
+    margin-bottom: 8px;
+}

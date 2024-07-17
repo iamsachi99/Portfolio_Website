@@ -1,0 +1,55 @@
+.section {
+    padding: 50px 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.m1{
+    background-color: white;
+}
+
+.loc{
+    color: grey;
+}
+
+.topskills{
+    margin-left: 25px;
+}
+
+.desc{
+    margin:20px;
+}
+
+.image-container {
+    display: flex;
+}
+
+.profile-image {
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #ddd;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.about-content {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.about-content h2 {
+    margin-bottom: 10px;
+}
+
+.about-content p {
+    margin-bottom: 8px;
+}
