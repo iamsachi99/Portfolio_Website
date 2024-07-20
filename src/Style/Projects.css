@@ -45,7 +45,7 @@
     flex-wrap: wrap;
     transform-style: preserve-3d;
     perspective: 500px;
-    margin-left: -270px;
+
 }
 .container2 .box {
     position: relative;
