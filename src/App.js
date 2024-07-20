@@ -51,7 +51,7 @@ function App() {
           <section id="HonorsAwards" className="section">
             <HonorsAwards/>
           </section>
-          <section id="interest" className="section">
+          <section id="Interest" className="section">
             <Interest/>
           </section>
           <section id="contact" className="section">

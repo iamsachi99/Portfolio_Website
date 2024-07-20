@@ -3,9 +3,9 @@ import '../Style/Interest.css';
 
 function Interest() {
     return (
-        <section id="interest" className="section">
+        <section id="Interest" className="section">
             <div className="container">
-                <h2>Interests</h2>
+                <h2>Interest</h2>
                 <ul className="interest-list">
                     <li className="li1">AI in fashion industry</li>
                     <li className="li1">Game Development</li>
