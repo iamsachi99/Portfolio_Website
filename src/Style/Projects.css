@@ -35,8 +35,8 @@
 
 .UI1{
     width: 700px;
+    align-items: center;
 }
-
 
 .container2 {
     position: relative;
@@ -45,7 +45,7 @@
     flex-wrap: wrap;
     transform-style: preserve-3d;
     perspective: 500px;
-    margin: auto;
+    margin-left: -270px;
 }
 .container2 .box {
     position: relative;
