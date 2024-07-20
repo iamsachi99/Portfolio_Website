@@ -32,7 +32,7 @@ def download_cv():
 
 @app.route('/')
 def index():
-    return send_from_directory('./', 'index.html')
+    return send_from_directory('/', 'index.html')
 
 @app.route('/static/<path:path>')
 def send_static(path):
